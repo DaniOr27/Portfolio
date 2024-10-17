@@ -44,7 +44,7 @@ const Hero = () => {
 
                     <div className="flex items-center gap-3">
                         <ButtonPrimary 
-                            src="https://portfolio-bay-rho-14.vercel.app/CVORTIZRamiroDaniel.pdf"
+                            href="https://portfolio-bay-rho-14.vercel.app/CVORTIZRamiroDaniel.pdf"
                             label="Download CV"
                             icon="download"
                             target="_blank"
