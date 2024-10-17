@@ -17,9 +17,9 @@ const works = [
     },
     {
         imgSrc: '/images/project-2.jpg',
-        title: 'Free stock photo app',
-        tags: ['API', 'SPA'],
-        projectLink: 'https://pixstock-official.vercel.app/'
+        title: 'Toyota Trueno AE86',
+        tags: ['Blender', 'Render'],
+        projectLink: 'https://www.instagram.com/p/C4PJBpttyMn/?img_index=1'
     },
     {
         imgSrc: '/images/project-3.jpg',
