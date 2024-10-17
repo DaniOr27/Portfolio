@@ -39,7 +39,7 @@ const Hero = () => {
                     </div>
                     
                     <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[18ch] mt-5 mb-8 lg:mb-10">
-                        Creando soluciones y diseños únicos e innovadores.
+                        Hola! Soy Dani. Disarrollador Web, Diseñador 3D y Analista en Sistemas.
                     </h2>
 
                     <div className="flex items-center gap-3">
