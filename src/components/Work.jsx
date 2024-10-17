@@ -11,9 +11,9 @@ import ProjectCard from "./ProjectCard";
 const works = [
     {
         imgSrc: '/images/project-1.jpg',
-        title: 'Full stack music app',
-        tags: ['API', 'MVC', 'Development'],
-        projectLink: 'https://musify-5al0.onrender.com/'
+        title: 'Calculator',
+        tags: ['HTML5', 'CSS', 'JS'],
+        projectLink: 'https://my-first-calculator-orcin.vercel.app/'
     },
     {
         imgSrc: '/images/project-2.jpg',
