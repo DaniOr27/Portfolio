@@ -27,7 +27,7 @@ const Header = () => {
                     className=""
                     >
                         <img 
-                        src="public/images/favicon.svg" 
+                        href="public/images/favicon.svg" 
                         width={40}
                         height={40}
                         alt="DaniOr"
