@@ -42,7 +42,7 @@ const About = () => {
                         }
 
                         <img 
-                            src="public/images/favicon.svg" 
+                            src="https://raw.githubusercontent.com/DaniOr27/Portfolio/b6f7ec0ee2bb68102b6d5739ad1789e18e67d3d1/public/images/favicon.svg" 
                             alt="Logo" 
                             width={30}
                             height={30}
