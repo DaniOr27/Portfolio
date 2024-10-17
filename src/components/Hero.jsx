@@ -44,7 +44,7 @@ const Hero = () => {
 
                     <div className="flex items-center gap-3">
                         <ButtonPrimary 
-                            src="https://github.com/DaniOr27/Portfolio/blob/main/public/CV%20ORTIZ%20Ramiro%20Daniel.pdf"
+                            href="https://github.com/DaniOr27/Portfolio/blob/main/public/CV%20ORTIZ%20Ramiro%20Daniel.pdf"
                             label="Download CV"
                             icon="download"
                             target="_blank"
