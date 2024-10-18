@@ -14,7 +14,7 @@ const works = [
         title: 'Calculator',
         tags: ['HTML5', 'CSS', 'JS'],
         projectLink: 'https://my-first-calculator-orcin.vercel.app/'
-    },
+    },/* 
     {
         imgSrc: '/images/project-2.jpg',
         title: 'Toyota Trueno AE86',
@@ -44,7 +44,7 @@ const works = [
         title: 'vCard Personal portfolio',
         tags: ['Web-design', 'Development'],
         projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
-    },
+    }, */
 ];
 
 const Work = () => {
