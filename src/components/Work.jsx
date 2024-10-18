@@ -11,7 +11,7 @@ import ProjectCard from "./ProjectCard";
 const works = [
     {
         imgSrc: '/images/project-1.jpg',
-        title: 'Calculator',
+        title: 'Calculadora',
         tags: ['HTML5', 'CSS', 'JS'],
         projectLink: 'https://my-first-calculator-orcin.vercel.app/'
     },/* 
