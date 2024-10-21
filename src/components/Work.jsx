@@ -14,13 +14,13 @@ const works = [
         title: 'Calculadora',
         tags: ['HTML5', 'CSS', 'JS'],
         projectLink: 'https://my-first-calculator-orcin.vercel.app/'
-    },/* 
+    }, 
     {
         imgSrc: '/images/project-2.jpg',
-        title: 'Toyota Trueno AE86',
-        tags: ['Blender', 'Render'],
-        projectLink: 'https://www.instagram.com/p/C4PJBpttyMn/?img_index=1'
-    },
+        title: 'Pokedex',
+        tags: ['ReactJS', 'TailwindCSS', 'API'],
+        projectLink: 'https://pokedex-livid-sigma.vercel.app/'
+    },/*
     {
         imgSrc: '/images/project-3.jpg',
         title: 'Recipe app',
